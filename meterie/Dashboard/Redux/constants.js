@@ -1,0 +1,3 @@
+// @flow
+
+export const NOTIFICATION_TO_USE_APP_ID = 'NOTIFICATION_TO_USE_APP_ID'
